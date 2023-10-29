@@ -10,9 +10,9 @@
             VerticalOptions="Center">
 
             <Button
-                x:Name="CameraBtn"
+                x:Name="photoBtn"
                 Text="Начать съемку"
-                Clicked="CameraBtn_Clicked"
+                Clicked="photoBtn_Clicked"
                 HorizontalOptions="Center" />
         </VerticalStackLayout>
     </ScrollView>
