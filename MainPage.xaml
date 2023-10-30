@@ -12,7 +12,7 @@
             <Button
                 x:Name="photoBtn"
                 Text="Начать съемку"
-                Clicked="photoBtn_Clicked"
+                Clicked="PhotoBtn_Clicked"
                 HorizontalOptions="Center" />
         </VerticalStackLayout>
     </ScrollView>
